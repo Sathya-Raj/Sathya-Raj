@@ -6,7 +6,7 @@
 
 - 🏛 I'm currently studying at **SJEC Mangalore**
 - 💡 I love to explore new technologies and leverage them to solve real-life problems
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`
+- ⚙️ I use daily: `.jsx`, `.js`, `.html`, `.css`, `.svg`, `.py`
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [linkedin.com/sathyaraj-saliyan](https://www.linkedin.com/in/sathyaraj-saliyan/)
 - ✨ Apart from coding i also tutor highschool kids
