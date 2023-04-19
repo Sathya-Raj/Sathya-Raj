@@ -10,7 +10,7 @@
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [linkedin.com/sathyaraj-saliyan](https://www.linkedin.com/in/sathyaraj-saliyan/)
 - ✨ Apart from coding i also tutor highschool kids
-- ❤  Anime
+
 
  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathya-Raj&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
 
